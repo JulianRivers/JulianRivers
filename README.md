@@ -14,11 +14,8 @@
  <!-- About section -->
 
 ---
-✨ ¡Greetings! I'm Julian, a passionate programmer seeking new opportunities in the world of software development. My main focus has been web development, with experience in the Spring Boot and Django frameworks.
-
-
-<!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="300" height="200" />
+✨ ¡Greetings! I'm Julian, a passionate programmer seeking new opportunities in the world of software development. My main focus has been web development, with experience in the Spring Boot and Django frameworks.
 
 
 <!-- About section: END -->
