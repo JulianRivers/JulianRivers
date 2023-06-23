@@ -5,7 +5,7 @@
         I'm Julian Riveros.<br>
          ¡Greetings! a passionate programmer seeking new opportunities in the world of software development. My main focus has been web development, with experience in the Spring Boot and Django frameworks.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/JulianRivers">
+    <a href="https://www.linkedin.com/in/julian-riveros">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:riverosfonsecajuliancamilo@gmail.com">
@@ -18,7 +18,6 @@
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/JulianRivers)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/JulianRivers)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/JulianRivers)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/JulianRivers)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://github.com/JulianRivers)
 
 ### Technologies & Frameworks
