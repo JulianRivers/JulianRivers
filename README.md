@@ -1,9 +1,8 @@
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! </h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hola! </h3>
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm Julian Riveros.<br>
-         ¡Greetings! a passionate programmer seeking new opportunities in the world of software development. My main focus has been web development, with experience in the Spring Boot and Django frameworks.<br>
+    <b>Bienvenido a mi página!</b><br><br>
+    <i> Soy Julian Riveros.<br>
+         Saludos! un programador apasionado en busca de nuevas oportunidades en el mundo del desarrollo de software. Mi Enfoque principal ha sido el desarrollo web con experiencia en los frameworks Springboot y Django.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/julian-riveros">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -13,14 +12,14 @@
     </a>
 </p>
 
-### Languages
+### Lenguages de Programación
 
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/JulianRivers)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/JulianRivers)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/JulianRivers)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://github.com/JulianRivers)
 
-### Technologies & Frameworks
+### Tecnologías y Frameworks
 
 [![Springboot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot)](https://github.com/JulianRivers)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/JulianRivers)
@@ -30,7 +29,7 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/JulianRivers)
 
 <details>
-<summary>My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </summary>
+<summary>Estadisticas de Github <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </summary>
 <p align="center">
   <a href="https://github.com/JulianRivers">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulianRivers&theme=transparent" />
