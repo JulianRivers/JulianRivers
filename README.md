@@ -25,19 +25,15 @@
 [![Springboot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot)](https://github.com/JulianRivers)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/JulianRivers)
 [![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter)](https://github.com/JulianRivers)
-[![BOOTSTRAP](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/JulianRivers)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/JulianRivers)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/JulianRivers)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/JulianRivers)
+[![Node](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=javascript)](https://github.com/JulianRivers)
+[![Mongo](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/JulianRivers)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/JulianRivers)
 
 ### 🌱Actualmente estoy aprendiendo
 
-[![Node](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=javascript)](https://github.com/JulianRivers)
-[![Express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)](https://github.com/JulianRivers)
-[![NestJS](https://img.shields.io/badge/nestJS-black?style=for-the-badge&logo=nestjs)](https://github.com/JulianRivers)
-[![Mongo](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/JulianRivers)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/JulianRivers)
-[![Jira](https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira)](https://github.com/JulianRivers)
-
+[![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/JulianRivers)
+[![Ingles](https://img.shields.io/badge/english-black?style=for-the-badge&logo=english)](https://github.com/JulianRivers)
 
 <details>
 <summary>Click Para Ver Estadísticas de Github <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </summary>
